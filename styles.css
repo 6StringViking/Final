@@ -1,0 +1,52 @@
+
+.navbar{
+  text-align: center;
+  background-color: rgb(165, 155, 165);
+  height: 65px;
+  width: 1450px
+
+}
+.thanksgiving{
+  background-color: #F2F013;
+  height: 40px;
+  width: 1400px;
+  text-align: center;
+  font-size: 30px;
+
+}
+.bottom{
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px
+
+}
+.lunchtable{
+  text-decoration: underline;
+
+}
+.facebook{
+  background-color: #F7F7F7;
+
+}
+.news{
+  font-weight: bold;
+  font-size: 30px
+
+}
+.News{
+  margin-right: auto;
+  margin-left: auto;
+
+}
+.main{
+  width: 75%;
+  color: #DD66DD;
+}
+.footer{
+  width: 100%;
+  height: 20%;
+  background-color: #000000;
+}
+.photo{
+text-indent: 40px
+}
